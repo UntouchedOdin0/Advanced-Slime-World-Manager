@@ -32,7 +32,7 @@ SWM releases can be found [here](https://www.spigotmc.org/resources/slimeworldma
 </dependencies>
 ```
 
-#### Gradle (OUTDATED)
+#### Gradle
 ```
 repositories {
     maven { url = 'https://repo.glaremasters.me/repository/concuncan/' }
