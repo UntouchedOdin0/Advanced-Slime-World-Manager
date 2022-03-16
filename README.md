@@ -35,11 +35,11 @@ SWM releases can be found [here](https://www.spigotmc.org/resources/slimeworldma
 #### Gradle (OUTDATED)
 ```
 repositories {
-    maven { url "https://repo.glaremasters.me/repository/concuncan/" }
+    maven { url = 'https://repo.glaremasters.me/repository/concuncan/' }
 }
 
 dependencies {
-    compileOnly group: "com.grinderwolf", name: "slimeworldmanager-api", version: "INSERT LATEST VERSION HERE";
+    compileOnly 'com.grinderwolf:slimeworldmanager-api:INSERT LATEST VERSION HERE'
 }
 ```
 
